@@ -1,0 +1,21 @@
+{
+    "name": "wcs/hello-world-sdk",
+    "description": "hello-world-sdk",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wencongsheng",
+            "email": "916826526@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php" : ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "HelloWorld\\" : "src/"
+        }
+    }
+}
