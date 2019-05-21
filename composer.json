@@ -1,6 +1,6 @@
 {
-    "name": "wencongsheng/hello-world-sdk",
-    "description": "hello-world-sdk",
+    "name": "wencongsheng/test-sdk",
+    "description": "test-sdk",
     "type": "library",
     "license": "MIT",
     "authors": [
