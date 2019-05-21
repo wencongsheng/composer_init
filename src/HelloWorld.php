@@ -1,7 +1,7 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: wcs
+ * User: wencongsheng
  * Date: 19-5-21
  * Time: 上午11:16
  */
@@ -16,7 +16,7 @@ class HelloWorld {
      * HelloWorld constructor.
      * @param string $author
      */
-    public function __construct($author = 'wsc') {
+    public function __construct($author = 'wencongsheng') {
         $this->author = $author;
     }
 
